@@ -7,9 +7,12 @@ Crie um pacote em ROS capaz de interagir com uma simulação feita no Gazebo de 
 * Conceber uma estrutura de dados capaz de armazenar a série de movimentos que devem ser feitos pelo robô para chegar no objetivo.
 * Implementar uma rota pré-estabelecida
 
+## Vídeo de demonstração
+https://github.com/Lukovsk/entregas-M6/assets/99260684/2486cb9d-4f1c-4a2e-a4b7-f2521ea8424f
+
 ## Interação com os tópicos relacionados ao robô simulado
 
-## Vídeo de demonstração
+
 
 ## Implementação
 
