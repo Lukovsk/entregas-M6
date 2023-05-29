@@ -5,4 +5,7 @@ Desenvolva um script em Python capaz de identificar rachaduras em paredes de con
 
 ## Vídeo de demonstração
 
+https://github.com/Lukovsk/entregas-M6/assets/99260684/2065271d-6fd0-4c27-9188-1912ac9c6fb0
+
+
 ## Implementação
