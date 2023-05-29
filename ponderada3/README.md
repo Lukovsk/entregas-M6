@@ -17,5 +17,5 @@ No notebook ipynb deste repositório, encontra-se um script capaz de identificar
 
 <div style="display: grid; grid-template-columns: auto auto;">
     <img src="./assets/rachaduras2.jpg" />
-    <img src="./assets/detected_rachaduras2.jpg" />
+    <img src="./assets/detected_crack2.png" />
 </div>
