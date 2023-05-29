@@ -1,0 +1,1 @@
+# Imagens das rachaduras antes e depois da identificação do script 
