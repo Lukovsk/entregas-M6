@@ -5,6 +5,7 @@ Desenvolva o software de um backend capaz de receber imagens e armazená-las ade
 
 ## Vídeo de demonstração
 
+[af96f3c4-af1c-4959-9910-e7fc5a0a0543.webm](https://github.com/Lukovsk/entregas-M6/assets/99260684/e677e810-87a5-4435-a243-a948c0e5ad25)
 
 
 ## Implementação
